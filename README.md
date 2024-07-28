@@ -15,6 +15,8 @@ Design decisions for the modpack are (in addition to those outlined by *Beyond V
 - Expand upon puzzle aspects of factory building.
 - Expand the end-game.
 
+This does mean that at least *some* of the restrictions related to game balancing/feel from the base modpacks are ignored. The modpack does *deviate in one very important segment as well* - since most of the bigger game-changing mods seem to utilise non-free licensing, this particular restriction has been dropped as well (otherwise there would be fairly limited content available for extending the vanilla game mechanics).
+
 
 Features
 --------
