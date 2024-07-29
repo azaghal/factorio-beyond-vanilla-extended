@@ -49,6 +49,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Additional fluid tanks for convenience. Useful for both massive oil processing and having smaller local buffers for defensive purposes.
 
+-   Specialised fluid pipes for increased flow rates ([Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow))
+
+    > Use specialised machinery and pipes to transfer large qunatities of fluids at high rates over long distances.
+
 
 ### Power Generation
 
