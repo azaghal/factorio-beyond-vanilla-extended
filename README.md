@@ -57,6 +57,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Additional tiers of solar panels and accumulators. Compromise with the local eco-activists, and lean into space-efficient power production. Just make sure they never see the factory that produced all of them...
 
+-   Traversable solar panels ([Flat Solar Panels - Solar Freakin' Roadway](https://mods.factorio.com/mod/Flat-Solar))
+
+    > Build the road? Or solar panels? Why not both? Replace the immobile, blocking variants of solar panels with fully animated variants that retract and extend as you approach them by foot or by car. Eases base traversal and makes for a fantastic Mexican wave.
+
 
 Known issues
 ------------
