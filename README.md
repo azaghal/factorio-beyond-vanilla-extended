@@ -45,6 +45,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Improve the symmetry and efficiency of your oil-cracking set-ups by configuring the positiong of machine fluid inputs and outputs.
 
+-   Additional fluid storage tanks ([Large Storage Tank](https://mods.factorio.com/mod/large-storage-tank) and [Extra Storage Tank: Minibuffer](https://mods.factorio.com/mod/extra-storage-tank-minibuffer))
+
+    > Additional fluid tanks for convenience. Useful for both massive oil processing and having smaller local buffers for defensive purposes.
+
 
 ### Power Generation
 

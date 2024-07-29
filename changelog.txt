@@ -20,4 +20,6 @@ Date: 9999-99-99
     - Logistics
       - Restrict pipe connections and control fluid flow (via "Flow Control")
       - Configure input/output layout for fluid-based crafting (via "Fluid Permutations Fixed")
+      - Small tank for storing fluids (via "Extra Storage Tank: Minibuffer")
+      - Large tank for storing fluids (via "Large Storage Tank")
   Bugfixes:
