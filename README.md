@@ -35,6 +35,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Once no longer planet-bound, the resources of the asteroid belt are yours for the taking - just make sure to properly configure the resource collection rockets by equipping them with the correct mining module.
 
 
+### Logistics
+
+-   Denser pipe builds and fluid flow control ([Flow Control](https://mods.factorio.com/mod/Flow%20Control))
+
+    > Use rotatable pipes that connect in fixed direction for compact factory builds, and for avoiding fluid mixing. Use the valves to control the flow of fluids without having to resort to powered pumps.
+
+
 ### Power Generation
 
 -   Extended power-generation based on burnables ([Superheating](https://mods.factorio.com/mod/Superheating))

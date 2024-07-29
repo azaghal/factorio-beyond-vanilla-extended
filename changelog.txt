@@ -17,4 +17,6 @@ Date: 9999-99-99
       - Utilise wall-estate for storing excess power (via "Accumulator Walls")
       - Higher-tier solar power production (via "Advanced Solar HR")
       - Traversable solar panels (via "Flat Solar Panels - Solar Freakin' Roadway")
+    - Logistics
+      - Restrict pipe connections and control fluid flow (via "Flow Control")
   Bugfixes:
