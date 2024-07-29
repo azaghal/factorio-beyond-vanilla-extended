@@ -53,6 +53,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Build a literal power wall around your base or outposts. Bring green energy to all that real-estate wasted on keeping the local eco-activists out.
 
+-   Improved solar power production and storage ([Advanced Solar HR](https://mods.factorio.com/mod/Advanced-Electric-Revamped-v16))
+
+    > Additional tiers of solar panels and accumulators. Compromise with the local eco-activists, and lean into space-efficient power production. Just make sure they never see the factory that produced all of them...
+
 
 Known issues
 ------------
