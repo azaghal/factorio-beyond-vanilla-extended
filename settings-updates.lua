@@ -2,6 +2,11 @@
 -- =====================
 
 local mod_setting_overrides = {
+    ['Asteroid_Mining'] = {
+        startup = {
+            { name = "astmine-allowprod", type = "bool-setting", default = true }
+        }
+    },
     ['PavementDriveAssistContinued'] = {
         startup = {
             -- Re-enable technology requirement. (@beyond-vanilla-qol)

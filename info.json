@@ -9,6 +9,7 @@
     "dependencies": [
         "? base >= 1.1.109",
         "beyond-vanilla-qol-plus >= 2.0.0",
+        "Asteroid_Mining >= 0.9.15",
         "SpaceMod >= 1.1.3"
      ]
 }
