@@ -35,6 +35,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Once no longer planet-bound, the resources of the asteroid belt are yours for the taking - just make sure to properly configure the resource collection rockets by equipping them with the correct mining module.
 
 
+### Power Generation
+
+-   Extended power-generation based on burnables ([Superheating](https://mods.factorio.com/mod/Superheating))
+
+    > Utilise oil and its byproducts for early-game power-generation, and upgrade your existing boiler-based set-up with super-heaters and (early unlock) steam turbines. Provides for a nice intermediate step towards nuclear-based powed production, and gives all that coal some interesting use even in the late game.
+
+
 Known issues
 ------------
 
