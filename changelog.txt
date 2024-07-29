@@ -11,4 +11,5 @@ Date: 9999-99-99
       - Obtain raw resources through rocket launches/asteroid mining (via "Asteroid Mining")
     - Power Generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
+      - Plutonium power and weapon production chains (via "PlutoniumEnergy")
   Bugfixes:

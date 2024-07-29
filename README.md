@@ -41,6 +41,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Utilise oil and its byproducts for early-game power-generation, and upgrade your existing boiler-based set-up with super-heaters and (early unlock) steam turbines. Provides for a nice intermediate step towards nuclear-based powed production, and gives all that coal some interesting use even in the late game.
 
+-   Plutonium-based power generation and weapons ([PlutoniumEnergy](https://mods.factorio.com/mod/PlutoniumEnergy))
+
+    > Move beyond mere uranium processing and power generation, and utilise new research and production chains that give you access to plutonium-based reactors and weapons.
+
 
 Known issues
 ------------
