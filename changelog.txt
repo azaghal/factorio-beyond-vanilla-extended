@@ -6,4 +6,6 @@ Date: 9999-99-99
     - Based off of "Beyond Vanila -QoL" modpack.
       - Re-enables technologies and features from "Pavement Drive Assist Continued".
       - Re-enables technologies and features from "Spidertron Patrols".
+    - End game
+      - Increase victory condition complexity and difficulty (via "Space Extension Mod")
   Bugfixes:

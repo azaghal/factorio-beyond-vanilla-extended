@@ -24,6 +24,13 @@ Features
 Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com/mod/beyond-vanilla-qol) and [Beyond Vanilla - QoL+](https://mods.factorio.com/mod/beyond-vanilla-qol-plus) modpacks. Please make sure to check out the feature list there as well.
 
 
+### End Game
+
+-   Victory requires multiple expensive rocket launches ([Space Extension Mod](https://mods.factorio.com/mod/SpaceMod))
+
+    > In order to win the game, it is no longer sufficient to merely launch a single rocket in order to escape the planet. Instead, multiple highly expensive (both research-wise and resource-wise) launches are required, with each putting a significant strain on your end game base, and leading to a natural transition towards a proper mega-base.
+
+
 Known issues
 ------------
 

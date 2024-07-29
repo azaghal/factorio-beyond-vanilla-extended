@@ -16,7 +16,7 @@ local mod_setting_overrides = {
             { name = "sp-enable-dock", type = "bool-setting", default = true },
             { name = "sp-enable-spiderling", type = "bool-setting", default = true }
         }
-    }
+    },
 }
 
 for mod, scope_settings in pairs(mod_setting_overrides) do

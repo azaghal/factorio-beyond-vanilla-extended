@@ -8,6 +8,7 @@
     "factorio_version": "1.1",
     "dependencies": [
         "? base >= 1.1.109",
-        "beyond-vanilla-qol-plus >= 2.0.0"
+        "beyond-vanilla-qol-plus >= 2.0.0",
+        "SpaceMod >= 1.1.3"
      ]
 }
