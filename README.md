@@ -45,6 +45,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Move beyond mere uranium processing and power generation, and utilise new research and production chains that give you access to plutonium-based reactors and weapons.
 
+-   Produce steam using electricity ([Electric Boiler](https://mods.factorio.com/mod/electricboiler))
+
+    > Simplify steam production for coal liquification, or use electric boilers to convert and store excess energy as steam.
+
 
 Known issues
 ------------

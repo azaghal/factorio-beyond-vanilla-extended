@@ -12,4 +12,5 @@ Date: 9999-99-99
     - Power Generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")
+      - Store excess energy as steam using electric boilers (via "Electric Boiler")
   Bugfixes:
