@@ -23,4 +23,7 @@ Date: 9999-99-99
       - Small tank for storing fluids (via "Extra Storage Tank: Minibuffer")
       - Large tank for storing fluids (via "Large Storage Tank")
       - Specialised pipes for increased long distance fluid flow (via "Fluid Must Flow")
+    - Visuals
+      - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
+      - Improved heat pipe glow (via "Realistic Heat Glow")
   Bugfixes:
