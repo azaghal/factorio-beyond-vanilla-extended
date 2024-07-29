@@ -19,4 +19,5 @@ Date: 9999-99-99
       - Traversable solar panels (via "Flat Solar Panels - Solar Freakin' Roadway")
     - Logistics
       - Restrict pipe connections and control fluid flow (via "Flow Control")
+      - Configure input/output layout for fluid-based crafting (via "Fluid Permutations Fixed")
   Bugfixes:

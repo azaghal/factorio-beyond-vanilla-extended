@@ -41,6 +41,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Use rotatable pipes that connect in fixed direction for compact factory builds, and for avoiding fluid mixing. Use the valves to control the flow of fluids without having to resort to powered pumps.
 
+-   Configure input/output layout for fluid crafting ([Fluid Permutations Fixed](https://mods.factorio.com/mod/fluid_permutations_fixed))
+
+    > Improve the symmetry and efficiency of your oil-cracking set-ups by configuring the positiong of machine fluid inputs and outputs.
+
 
 ### Power Generation
 
