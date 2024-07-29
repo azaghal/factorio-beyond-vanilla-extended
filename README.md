@@ -49,11 +49,17 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Simplify steam production for coal liquification, or use electric boilers to convert and store excess energy as steam.
 
+-   Power production and storage using stone walls ([Solar Walls](https://mods.factorio.com/mod/solar-walls) and [Accumulator Walls](https://mods.factorio.com/mod/accumulator-walls))
+
+    > Build a literal power wall around your base or outposts. Bring green energy to all that real-estate wasted on keeping the local eco-activists out.
+
 
 Known issues
 ------------
 
-There are no known issues at this time.
+In addition to items listed here, please also have a look at known issues for [Beyond Vanilla - QoL+](https://mods.factorio.com/mod/beyond-vanilla-qol-plus) modpack.
+
+-   The [Solar Walls](https://mods.factorio.com/mod/solar-walls) and [Accumulator Walls](https://mods.factorio.com/mod/accumulator-walls) research lacks the technology pre-requisite on regular stone walls - despite having to use regular stone walls to craft them. Just don't forget to research regular stone walls as well.
 
 
 Contributions

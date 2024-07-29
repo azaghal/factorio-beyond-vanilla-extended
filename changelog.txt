@@ -13,4 +13,6 @@ Date: 9999-99-99
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")
       - Store excess energy as steam using electric boilers (via "Electric Boiler")
+      - Utilise wall-estate for generating clean power (via "Solar Walls")
+      - Utilise wall-estate for storing excess power (via "Accumulator Walls")
   Bugfixes:
