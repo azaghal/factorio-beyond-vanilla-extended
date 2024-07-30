@@ -34,6 +34,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Once no longer planet-bound, the resources of the asteroid belt are yours for the taking - just make sure to properly configure the resource collection rockets by equipping them with the correct mining module.
 
+-   Factory-oriented statistics in victory screen ([Better Victory Screen](https://mods.factorio.com/mod/better-victory-screen))
+
+    > Get factory/production-oriented statistics after winning the game. Because, you know, if this game was really about killing biters, it would probably be called Biterio...
+
 
 ### Circuit network
 
