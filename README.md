@@ -91,6 +91,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Have a small dose of reality added back to the game by having the correct colour/texture schemes for in-game ores, or... Get massively confused as you struggle to understand that iron and copper ore patch colours are now reversed in the game after hundreds of hours of play-time.
 
+-   Vegetation-free concrete ([Cleaned Concrete](https://mods.factorio.com/mod/CleanedConcrete))
+
+    > Get rid of shurbbery and weeds when placing concrete. Stamp out those plants for good.
+
 
 Known issues
 ------------

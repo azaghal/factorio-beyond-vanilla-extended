@@ -27,4 +27,5 @@ Date: 9999-99-99
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")
       - Realistic ore textures/colours (via "Realistic Ores")
+      - Remove ground decorations from concrete (via "Cleaned Concrete")
   Bugfixes:
