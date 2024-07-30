@@ -2,10 +2,24 @@
 -- =====================
 
 local mod_setting_overrides = {
-    ['AsphaltPaving'] = {
+    ['alien-biomes'] = {
         startup = {
-            { name = "AR-enable-white-double-lines", type = "bool-setting", default = false },
-            { name = "AR-enable-yellow-double-lines", type = "bool-setting", default = false }
+            { name = "alien-biomes-include-dirt-aubergine", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-dirt-dustyrose", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-dirt-purple", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-dirt-red", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-dirt-violet", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-grass-mauve", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-grass-purple", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-grass-red", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-grass-turquoise", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-grass-violet", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-sand-aubergine", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-sand-dustyrose", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-sand-purple", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-sand-red", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-sand-violet", type = "string-setting", default = "Disabled" },
+            { name = "alien-biomes-include-volcanic-purple", type = "string-setting", default = "Disabled" }
         },
     },
     ['Asteroid_Mining'] = {
