@@ -22,6 +22,7 @@
         "FluidMustFlow >= 1.3.5",
         "hercules-robots >= 1.0.1",
         "large-storage-tank >= 1.1.0",
+        "logistic-tanks >= 0.0.3",
         "PlutoniumEnergy >= 1.6.2",
         "Realistic_Heat_Glow >= 2.1.0",
         "RealisticReactorGlow >= 1.101.7",

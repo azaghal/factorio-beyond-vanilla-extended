@@ -65,6 +65,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Shake-up your traditional builds by using inserters that can work at a 90-degree angle, and pick what side of the belt to drop off the items at.
 
+-   Fluid transfer using bots ([Logistic Tank](https://mods.factorio.com/mod/logistic-tanks))
+
+    > Move fluids around using robots without barreling and unbarreling using dedicated fluid tank logistic variants. Just make sure to install that barrel into the bot itself...
+
 
 ### Power Generation
 
