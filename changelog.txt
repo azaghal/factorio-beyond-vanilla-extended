@@ -30,6 +30,8 @@ Date: 9999-99-99
       - Additional larger variants of chests (via "AAI Containers")
       - Configurable inserter drop-off/pick-up positions (via "Side Inserters")
       - Fluid delivery using logistics network (via "Logistic Tank")
+    - Miscellaneous
+      - Relocate shipwreck/set spawn point (via "Relocatable Shipwreck")
     - Visuals
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")

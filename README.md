@@ -81,6 +81,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Move fluids around using robots without barreling and unbarreling using dedicated fluid tank logistic variants. Just make sure to install that barrel into the bot itself...
 
 
+### Miscellaneous
+
+-   Relocate the shipwreck/set respawn point ([Relocatable Shipwreck](https://mods.factorio.com/mod/relocatable-shipwreck))
+
+    > Are you nostalgic about your life as a failed pilot? You like keeping all the junk around? Can't bear yourself to disassemble your old trusty ship? Then worry no more - you can simply pick up your trashed spaceship, and plop it somewhere else. To top it off, this also sets your respawn point. Just make sure not to destroy it by accident... **NOTE:** To recolor the shipwreck once it has been moved, please use the `/recolor-crash-site` console command.
+
+
 ### Power Generation
 
 -   Extended power-generation based on burnables ([Superheating](https://mods.factorio.com/mod/Superheating))
@@ -130,6 +137,7 @@ In addition to items listed here, please also have a look at known issues for [B
 
 -   The [Solar Walls](https://mods.factorio.com/mod/solar-walls) and [Accumulator Walls](https://mods.factorio.com/mod/accumulator-walls) research lacks the technology pre-requisite on regular stone walls - despite having to use regular stone walls to craft them. Just don't forget to research regular stone walls as well.
 -   The [AAI Containers](https://mods.factorio.com/mod/aai-containers) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
+-   Moving the shipwreck around (picking it up and placing it down again) desyncs the shipwreck colour. This is a known incompatibility/limitation of the [Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship) and [Relocatable Shipwreck](https://mods.factorio.com/mod/relocatable-shipwreck) mods.
 
 
 Contributions
