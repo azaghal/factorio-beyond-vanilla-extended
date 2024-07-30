@@ -169,7 +169,7 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
 -   Increased variety in biomes and map generation ([Alien Biomes](https://mods.factorio.com/mod/alien-biomes))
 
-    > Enjoy increase in landscape variety of the Nauvis planet, including some smaller mechanics changes in terms of walking/driving speed, or rock generation.
+    > Enjoy increase in landscape variety of the Nauvis planet, including some smaller mechanics changes in terms of walking/driving speed, or rock generation. **NOTE:** If you are running Factorio on a beefy enough machine (primarily GPU-wise), you may be interested to manully install the [Alien Biomes High-Res Terrain](https://mods.factorio.com/mod/alien-biomes-hr-terrain) in order to get nicer looking graphics.
 
 
 Known issues
