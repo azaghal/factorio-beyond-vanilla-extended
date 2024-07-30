@@ -61,6 +61,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Enjoy more item storage options, and experiment with new layouts for all of your loading, unloading, and buffering needs. Additional containers ranging from 2x2 to 6x6 in size.
 
+-   Configurable inserter pick-up and drop-off positions ([Side Inserters](https://mods.factorio.com/mod/Side%20Inserters))
+
+    > Shake-up your traditional builds by using inserters that can work at a 90-degree angle, and pick what side of the belt to drop off the items at.
+
 
 ### Power Generation
 

@@ -9,6 +9,14 @@ local control_overrides = {
         { name = "previous-ingredients-fluid-recipe", key_sequence = "", alternative_key_sequence = "" },
         { name = "next-results-fluid-recipe", key_sequence = "]", alternative_key_sequence = "" },
         { name = "previous-results-fluid-recipe", key_sequence = "", alternative_key_sequence = "" }
+    },
+    ['Side Inserters'] = {
+        -- Avoid some of the overlaps with existing controls, and try to make the bindings more accessible.
+        -- NOTE: Drop distance toggle is bound to item pickup, which could be annoying long term, but it is conveniently positioned.
+        { name = "rotate-inserter-pickup", key_sequence = "ALT + R", alternative_key_sequence = "" },
+        { name = "reverse-rotate-inserter-pickup", key_sequence = "", alternative_key_sequence = "" },
+        { name = "inserter-drop-distance-toggle", key_sequence = "F", alternative_key_sequence = "" },
+        { name = "inserter-drop-lateral-adjust", key_sequence = "ALT + F", alternative_key_sequence = "" },
     }
 }
 
