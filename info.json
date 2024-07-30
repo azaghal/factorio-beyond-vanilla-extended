@@ -13,6 +13,7 @@
         "accumulator-walls >= 0.1.3",
         "Advanced-Electric-Revamped-v16 >= 0.6.15",
         "Asteroid_Mining >= 0.9.15",
+        "capacity-combinator >= 2.4.0",
         "CleanedConcrete >= 1.0.4",
         "electricboiler >= 1.1.0",
         "extra-storage-tank-minibuffer >= 0.1.4",

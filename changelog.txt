@@ -9,7 +9,9 @@ Date: 9999-99-99
     - End game
       - Increase victory condition complexity and difficulty (via "Space Extension Mod")
       - Obtain raw resources through rocket launches/asteroid mining (via "Asteroid Mining")
-    - Power Generation
+    - Circuit network
+      - Measure total accumulator charge and capacity (via "Capacity Combinator")
+    - Power generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")
       - Store excess energy as steam using electric boilers (via "Electric Boiler")

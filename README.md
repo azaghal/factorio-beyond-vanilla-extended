@@ -35,6 +35,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Once no longer planet-bound, the resources of the asteroid belt are yours for the taking - just make sure to properly configure the resource collection rockets by equipping them with the correct mining module.
 
 
+### Circuit network
+
+-   Measure total accumulator charge and capacity ([Capacity Combinator](https://mods.factorio.com/mod/capacity-combinator)
+
+    > Access information about total stored energy and energy capacity, and utilise these values in circuit network. Prioritise different means of production based on available charge, or control which parts of the factory get cut off when the stored energy is low.
+
+
 ### Logistics
 
 -   Denser pipe builds and fluid flow control ([Flow Control](https://mods.factorio.com/mod/Flow%20Control))
