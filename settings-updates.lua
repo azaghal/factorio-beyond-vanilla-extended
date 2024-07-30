@@ -4,6 +4,7 @@
 local mod_setting_overrides = {
     ['alien-biomes'] = {
         startup = {
+            -- Get rid of some of the tackier-looking biomes. Helps reduce tile count as well.
             { name = "alien-biomes-include-dirt-aubergine", type = "string-setting", default = "Disabled" },
             { name = "alien-biomes-include-dirt-dustyrose", type = "string-setting", default = "Disabled" },
             { name = "alien-biomes-include-dirt-purple", type = "string-setting", default = "Disabled" },
@@ -24,6 +25,8 @@ local mod_setting_overrides = {
     },
     ['Asteroid_Mining'] = {
         startup = {
+            -- Allow use of productivity modules for asteroid ore processing to make it a bit more attractive in the
+            -- end-game.
             { name = "astmine-allowprod", type = "bool-setting", default = true }
         }
     },
