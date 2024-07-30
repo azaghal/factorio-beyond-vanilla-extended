@@ -12,6 +12,11 @@ Date: 9999-99-99
       - Factory-oriented victory screen (via "Better Victory Screen")
     - Circuit network
       - Measure total accumulator charge and capacity (via "Capacity Combinator")
+      - Daylight, motion, pollution, and pressure plate sensors (via "Kontraptions")
+      - Wireless signal transmissions (via "Kontraptions")
+    - Combat
+      - Remote explosives (via "Kontraptions")
+      - Early game fire (via "Kontraptions")
     - Power generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")
@@ -30,8 +35,11 @@ Date: 9999-99-99
       - Additional larger variants of chests (via "AAI Containers")
       - Configurable inserter drop-off/pick-up positions (via "Side Inserters")
       - Fluid delivery using logistics network (via "Logistic Tank")
+      - Early game robot logistics (via "Kontraptions")
     - Miscellaneous
       - Relocate shipwreck/set spawn point (via "Relocatable Shipwreck")
+      - Signposts (via "Kontraptions")
+      - Torches (via "Kontraptions")
     - Visuals
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")

@@ -23,6 +23,7 @@
         "fluid_permutations_fixed >= 0.5.4",
         "FluidMustFlow >= 1.3.5",
         "hercules-robots >= 1.0.1",
+        "Kontraptions >= 1.0.4",
         "large-storage-tank >= 1.1.0",
         "logistic-tanks >= 0.0.3",
         "PlutoniumEnergy >= 1.6.2",

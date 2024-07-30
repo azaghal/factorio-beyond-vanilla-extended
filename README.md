@@ -45,6 +45,25 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Access information about total stored energy and energy capacity, and utilise these values in circuit network. Prioritise different means of production based on available charge, or control which parts of the factory get cut off when the stored energy is low.
 
+-   Daylight, motion, pollution, and pressure plate sensors ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Use extra set of sensors to automate even more of your factory! For those long sessions when you can't quite figure out if it's still daylight or not...
+
+-   Wireless signals ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Wirelessly connect circuit networks across vastness of wilderness. Redirect some of those free circuit wires into *important* parts of the factory!
+
+
+### Combat
+
+-   Remotely activate explosives ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Use the power of circuit network to blow up explosives from a distance. (Mostly) safe way to cause more mayhem and destruction.
+
+-   Early game fire ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Crash-land on planet, then set the nearby flora and fauna on fire using primitive. Don't play with matches - use the latest discovery from 5000 years ago - tinderbox!
+
 
 ### Logistics
 
@@ -80,12 +99,20 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Move fluids around using robots without barreling and unbarreling using dedicated fluid tank logistic variants. Just make sure to install that barrel into the bot itself...
 
+-   Early-game robot logistics ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Deliver items to remote locations using one-time use long range delivery drones.
+
 
 ### Miscellaneous
 
 -   Relocate the shipwreck/set respawn point ([Relocatable Shipwreck](https://mods.factorio.com/mod/relocatable-shipwreck))
 
     > Are you nostalgic about your life as a failed pilot? You like keeping all the junk around? Can't bear yourself to disassemble your old trusty ship? Then worry no more - you can simply pick up your trashed spaceship, and plop it somewhere else. To top it off, this also sets your respawn point. Just make sure not to destroy it by accident... **NOTE:** To recolor the shipwreck once it has been moved, please use the `/recolor-crash-site` console command.
+
+-   Signposts - with icon support ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Sometimes an icon is not enough. Sometimes, you need to send a message to all those passing by... Craft and place signposts for reminders, insults, and fun!
 
 
 ### Power Generation
@@ -128,6 +155,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 -   Vegetation-free concrete ([Cleaned Concrete](https://mods.factorio.com/mod/CleanedConcrete))
 
     > Get rid of shurbbery and weeds when placing concrete. Stamp out those plants for good.
+
+-   Torches ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
+
+    > Light-up the early game factory by placing down primitive stone-age technology - a torch.
 
 
 Known issues
