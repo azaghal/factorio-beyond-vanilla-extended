@@ -40,6 +40,8 @@ Date: 9999-99-99
       - Relocate shipwreck/set spawn point (via "Relocatable Shipwreck")
       - Signposts (via "Kontraptions")
       - Torches (via "Kontraptions")
+    - Transportation
+      - Fast and pretty road tiles (via "Asphalt Roads")
     - Visuals
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")

@@ -142,6 +142,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Build the road? Or solar panels? Why not both? Replace the immobile, blocking variants of solar panels with fully animated variants that retract and extend as you approach them by foot or by car. Eases base traversal and makes for a fantastic Mexican wave.
 
 
+### Transportation
+
+-   Additional asphalt-based road tiles ([Asphalt Roads](https://mods.factorio.com/mod/AsphaltPaving))
+
+    > Introduces asphalt-based road tiles, providing faster vehicle/walking speed and more decoration options.
+
+
 ### Visuals
 
 -   Improved glow effects for reactors and heat pipes ([Realistic Reactor Glow](https://mods.factorio.com/mod/RealisticReactorGlow) and [Realistic Heat Glow](https://mods.factorio.com/mod/Realistic_Heat_Glow))
