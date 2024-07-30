@@ -53,6 +53,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Use specialised machinery and pipes to transfer large qunatities of fluids at high rates over long distances.
 
+-   Upgraded version of construction and logistics bots ([Hercules Robots](https://mods.factorio.com/mod/hercules-robots))
+
+    > Late-game upgrade to your construction and logistics automation needs. Harder, better, faster, stronger.
+
 
 ### Power Generation
 
