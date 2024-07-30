@@ -42,6 +42,7 @@ Date: 9999-99-99
       - Torches (via "Kontraptions")
     - Transportation
       - Fast and pretty road tiles (via "Asphalt Roads")
+      - Water-based transportation and resource extraction (via "Cargo Ships")
     - Visuals
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")

@@ -30,6 +30,15 @@ local mod_setting_overrides = {
             { name = "astmine-allowprod", type = "bool-setting", default = true }
         }
     },
+    ['cargo-ships'] = {
+        startup = {
+            -- Generate all oil on water, forcing the player to utilise tankers (and the mod) to obtain it. Increase
+            -- richness of generated oil to compensate for reduced accessbility.
+            { name = "no_oil_on_land", type = "bool-setting", default = true },
+            { name = "no_oil_for_oil_rig", type = "bool-setting", default = true },
+            { name = "oil_richness", type = "string-setting", default = "good" }
+        }
+    },
     ['PavementDriveAssistContinued'] = {
         startup = {
             -- Re-enable technology requirement. (@beyond-vanilla-qol)

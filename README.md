@@ -21,7 +21,7 @@ This does mean that at least *some* of the restrictions related to game balancin
 Features
 --------
 
-Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com/mod/beyond-vanilla-qol) and [Beyond Vanilla - QoL+](https://mods.factorio.com/mod/beyond-vanilla-qol-plus) modpacks. Please make sure to check out the feature list there as well.
+Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com/mod/beyond-vanilla-qol) and [Beyond Vanilla - QoL+](https://mods.factorio.com/mod/beyond-vanilla-qol-plus) modpacks. Please make sure to check out the feature list there as well. Pay special attention to listed end-game and mechanics features.
 
 
 ### End Game
@@ -37,6 +37,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 -   Factory-oriented statistics in victory screen ([Better Victory Screen](https://mods.factorio.com/mod/better-victory-screen))
 
     > Get factory/production-oriented statistics after winning the game. Because, you know, if this game was really about killing biters, it would probably be called Biterio...
+
+
+### Mechanics
+
+-   Oil generates only in water ([Cargo Ships](https://mods.factorio.com/mod/cargo-ships))
+
+    > Oil is no longer generated on land, and can only by extracted via oil rigs. It has to be transported either using oil tankers, or by excess use of landfill to get the trains to the oil rig.
 
 
 ### Circuit network
@@ -147,6 +154,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 -   Additional asphalt-based road tiles ([Asphalt Roads](https://mods.factorio.com/mod/AsphaltPaving))
 
     > Introduces asphalt-based road tiles, providing faster vehicle/walking speed and more decoration options.
+
+-   Water-based transportation ([Cargo Ships](https://mods.factorio.com/mod/cargo-ships))
+
+    > Use cargo ships and tankers in addition to railway to transport resources between outposts and factories. Sail the world, they said...
 
 
 ### Visuals
