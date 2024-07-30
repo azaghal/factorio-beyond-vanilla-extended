@@ -87,6 +87,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Enjoy the glow colour of a nuclear reaction the way *scientistis* intended it, and get a small boost to your visual experience through improved glow effects for the heat pipe elements.
 
+-   Realistically looking ores ([Realistic Ores](https://mods.factorio.com/mod/RealisticOres))
+
+    > Have a small dose of reality added back to the game by having the correct colour/texture schemes for in-game ores, or... Get massively confused as you struggle to understand that iron and copper ore patch colours are now reversed in the game after hundreds of hours of play-time.
+
 
 Known issues
 ------------
