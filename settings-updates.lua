@@ -2,6 +2,12 @@
 -- =====================
 
 local mod_setting_overrides = {
+    ['AsphaltPaving'] = {
+        startup = {
+            { name = "AR-enable-white-double-lines", type = "bool-setting", default = false },
+            { name = "AR-enable-yellow-double-lines", type = "bool-setting", default = false }
+        },
+    },
     ['Asteroid_Mining'] = {
         startup = {
             { name = "astmine-allowprod", type = "bool-setting", default = true }

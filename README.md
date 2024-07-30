@@ -146,7 +146,7 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
 -   Additional asphalt-based road tiles ([Asphalt Roads](https://mods.factorio.com/mod/AsphaltPaving))
 
-    > Introduces asphalt-based road tiles, providing faster vehicle/walking speed and more decoration options.
+    > Introduces asphalt-based road tiles, providing faster vehicle/walking speed and more decoration options. **NOTE:** The double-line variants of asphalt road tiles have been disabled in order to accommodate for the large number of tiles provided by the [Alien Biomes](https://mods.factorio.com/mod/alien-biomes) mod. This is due to game engine limitation of allowing for maximum of 256 tiles to be defined.
 
 
 ### Visuals
@@ -166,6 +166,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 -   Torches ([Kontraptions](https://mods.factorio.com/mod/Kontraptions))
 
     > Light-up the early game factory by placing down primitive stone-age technology - a torch.
+
+-   Increased variety in biomes and map generation ([Alien Biomes](https://mods.factorio.com/mod/alien-biomes))
+
+    > Enjoy increase in landscape variety of the Nauvis planet, including some smaller mechanics changes in terms of walking/driving speed, or rock generation.
 
 
 Known issues

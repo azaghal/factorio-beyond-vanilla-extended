@@ -47,4 +47,5 @@ Date: 9999-99-99
       - Improved heat pipe glow (via "Realistic Heat Glow")
       - Realistic ore textures/colours (via "Realistic Ores")
       - Remove ground decorations from concrete (via "Cleaned Concrete")
+      - Varied biomes and improved map generation (via "Alien Biomes")
   Bugfixes:
