@@ -183,6 +183,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Smaller (shorter) trains and wagon counterparts. Useful for delivery of low-volume items and for more compact builds.
 
+-   Battery-powered electric trains ([Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain))
+
+    > Battery-powered electric trains provide increased speed, power, and braking force at the expense of additional infrastructure and power consumption. Useful for increasing the throughput of the massive rail networks.
+
 
 ### Visuals
 

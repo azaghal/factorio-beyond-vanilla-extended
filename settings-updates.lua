@@ -30,6 +30,16 @@ local mod_setting_overrides = {
             { name = "astmine-allowprod", type = "bool-setting", default = true }
         }
     },
+    ['BatteryElectricTrain'] = {
+        startup = {
+            -- Make electric trains more attractive to use than vanilla locomotives to motivate the player to use them.
+            { name = "bet-cheatsy-locs", type = "bool-setting", default = true },
+            { name = "bet-cheatsy-wagons", type = "bool-setting", default = true },
+            { name = "bet-cheatsy-speed", type = "double-setting", default = 297 },
+            { name = "bet-cheatsy-power", type = "int-setting", default = 690 },
+            { name = "bet-cheatsy-braking", type = "double-setting", default = 1.15 }
+        }
+    },
     ['cargo-ships'] = {
         startup = {
             -- Generate all oil on water, forcing the player to utilise tankers (and the mod) to obtain it. Increase
