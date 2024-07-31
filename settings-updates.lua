@@ -67,6 +67,11 @@ local mod_setting_overrides = {
             { name = "lex-flying-gunship-speed-settings", type = "double-setting", default = 140 },
         }
     },
+    ['MIRV'] = {
+        startup = {
+            { name = "mirv-auto-launch", type = "bool-setting", default = false }
+        }
+    },
     ['PavementDriveAssistContinued'] = {
         startup = {
             -- Re-enable technology requirement. (@beyond-vanilla-qol)

@@ -22,6 +22,7 @@ Date: 9999-99-99
       - Uranium-based shotgun shells (via "Uranium Shotgun Shell")
       - Nuclear bomb-launching artillery (via "Atomic Artillery" and "Atomic Artillery Remote")
       - More weapon choices for spidertrons (via "Spidertron Weapon Switcher")
+      - Mass destruction using orbital nuclear weapons (via "M.I.R.V.")
     - Power generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")

@@ -43,6 +43,7 @@
         "lex-aircraft >= 1.1.1",
         "logistic-tanks >= 0.0.3",
         "Mini_Trains >= 1.0.0",
+        "MIRV >= 1.0.1",
         "platforms >= 1.1.7",
         "PlutoniumEnergy >= 1.6.2",
         "Realistic_Heat_Glow >= 2.1.0",

@@ -91,6 +91,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Ever wished that you could use flamethrower from the comforts of your personal spidetron? How about shotgun shells? Or just plain old magazines? Worry no more - now you can easily equip your spidetrons with multiples types of ammo, and switch between them using a control binding.
 
+-   Nukes in space ([M.I.R.V.](https://mods.factorio.com/mod/MIRV))
+
+    > Player-assisted orbital biter mass extinction event. Launch specialised nuclear weapons into space, and reign down terror from space.
+
 
 ### Logistics
 
