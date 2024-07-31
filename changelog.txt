@@ -20,6 +20,7 @@ Date: 9999-99-99
       - Snapper crab-like biters (via "Armoured Biters")
       - Improved automatic rifle (via "Assault Rifle")
       - Uranium-based shotgun shells (via "Uranium Shotgun Shell")
+      - Nuclear bomb-launching artillery (via "Atomic Artillery" and "Atomic Artillery Remote")
     - Power generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")

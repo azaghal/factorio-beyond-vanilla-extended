@@ -83,6 +83,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Fight off the local population using new, improved riot-supression ammunition - the uranium shotgun shell. Fill in the most obvious gap in entire Factorio research tree.
 
+-   Nuclear artillery ([Atomic Artillery](https://mods.factorio.com/mod/AtomicArtillery) and [Atomic Artillery Remote](https://mods.factorio.com/mod/AtomicArtilleryRemote))
+
+    > Launch nuclear bombs at biter nests using dedicated nuclear artillery batteries. For those too tired to carry around all those shoulder-launched nukes...
+
 
 ### Logistics
 
