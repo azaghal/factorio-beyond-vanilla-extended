@@ -100,6 +100,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Disables repair of regular (vanilla) walls and gates - because bots are normally way more expensive than the wall. The special walls (accumulator and solar) can still be repaired (and probably should not be part of the very first line of defense).
 
+-   Increased nighttime biter attacks ([Nightfall](https://mods.factorio.com/mod/Nightfall))
+
+    > Biters attack more frequently during nighttime.
+
 
 ### Logistics
 
