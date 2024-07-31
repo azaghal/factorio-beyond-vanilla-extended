@@ -96,6 +96,11 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Player-assisted orbital biter mass extinction event. Launch specialised nuclear weapons into space, and reign down terror from space.
 
 
+-   Disable repair of regular walls ([No Waill Repair](https://mods.factorio.com/mod/no-wall-repair))
+
+    > Disables repair of regular (vanilla) walls and gates - because bots are normally way more expensive than the wall. The special walls (accumulator and solar) can still be repaired (and probably should not be part of the very first line of defense).
+
+
 ### Logistics
 
 -   Denser pipe builds and fluid flow control ([Flow Control](https://mods.factorio.com/mod/Flow%20Control))

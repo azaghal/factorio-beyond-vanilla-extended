@@ -25,6 +25,7 @@ local mod_setting_overrides = {
     },
     ['ArmouredBiters'] = {
         startup = {
+            -- Spawn dedicated nests for snappers, but only in wet regions (so, not in desert, for example).
             { name = "ab-enable-nest", type = "bool-setting", default = true },
             { name = "ab-enable-moisture-check", type = "bool-setting", default = true }
         }
@@ -69,7 +70,17 @@ local mod_setting_overrides = {
     },
     ['MIRV'] = {
         startup = {
+            -- Disable auto-launch, let player decided when and where to strike.
             { name = "mirv-auto-launch", type = "bool-setting", default = false }
+        }
+    },
+    ['no-wall-repair'] = {
+        map = {
+            -- Set some bogus values to disable the self-healing of walls.
+            -- @TODO: Possibly fork this mod, and introduce better options for disabling self-heal.
+            { name = "wall-repair-factor", type = "int-setting", default = 0 },
+            { name = "wall-repair-max", type = "int-setting", default = 0 },
+            { name = "wall-repair-delay", type = "int-setting", default = 1000000 }
         }
     },
     ['PavementDriveAssistContinued'] = {
