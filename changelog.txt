@@ -46,6 +46,8 @@ Date: 9999-99-99
       - Fast and pretty road tiles (via "Asphalt Roads")
       - Water-based transportation and resource extraction (via "Cargo Ships")
       - Water-placeable rails (via "Beautiful Bridge Railway for Cargoships")
+      - Additional, faster car tiers (via "Faster Cars")
+      - Aeral travel (via "HelicopterRevival" and "Lex's Aircraft")
     - Visuals
       - Realistic nuclear reactor glow (via "Realistic Reactor Glow")
       - Improved heat pipe glow (via "Realistic Heat Glow")

@@ -39,6 +39,12 @@ local mod_setting_overrides = {
             { name = "oil_richness", type = "string-setting", default = "good" }
         }
     },
+    ['lex-aircraft'] = {
+        startup = {
+            -- Rebalance gunship speed so it would not out-compete all other forms of transportation.
+            { name = "lex-flying-gunship-speed-settings", type = "double-setting", default = 140 },
+        }
+    },
     ['PavementDriveAssistContinued'] = {
         startup = {
             -- Re-enable technology requirement. (@beyond-vanilla-qol)

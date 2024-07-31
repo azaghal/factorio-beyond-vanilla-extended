@@ -171,6 +171,14 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Bridge across the water using dedicated bridge railways instead of spamming the landfill.
 
+-   Improved car variants ([Faster Cars](https://mods.factorio.com/mod/Faster_Cars))
+
+    > Additional car variants with improved speed, as well as speed toggles and better breaking. **NOTE:** Cars have been slightly tweaked by the modpack to make the technology progression a bit smoother. Effective speed of highway care and nuclear fusion car has been slightly lowered. Turret has been re-added to highway car.
+
+-   Aerial transportation ([HelicopterRevival](https://mods.factorio.com/mod/HelicopterRevival), [Lex's Aircraft](https://mods.factorio.com/mod/lex-aircraft))
+
+    > Enjoy between two forms of aerial transporation - helicopter and three variants of hovering aircraft. **NOTE:** Some tweak have been applied to make the technology progression a bit smoother and to not out-compete other forms of transportation. Helicopters can be recolored by copy/pating colour scheme from cars and trains.
+
 
 ### Visuals
 
