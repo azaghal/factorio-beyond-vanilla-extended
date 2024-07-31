@@ -47,6 +47,14 @@ local mod_setting_overrides = {
             { name = "PDA-setting-smart-roads-enabled", type = "bool-setting", default = true }
         }
     },
+    ['platforms'] = {
+        startup = {
+            -- Use a nicer-looking texture/layout for platforms.
+            { name = "platform-theme", type = "string-setting", default = "Brick" },
+            -- Keep the landfill in the game, thus making the platforms simply a more expensive alternative.
+            { name = "replace-landfill", type = "bool-setting", default = false }
+        }
+    },
     ['SpidertronPatrols'] = {
         startup = {
             -- Re-enable spiderlings and docks. (@beyond-vanilla-qol)

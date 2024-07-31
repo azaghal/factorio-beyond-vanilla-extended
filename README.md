@@ -125,6 +125,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Create canals for supplying large nuclear power builds in a desert, or for allowing the passage of cargo ships. Non-cheaty way to place water anywhere you want!.
 
+-   Mineable platforms for water placement ([Platforms](https://mods.factorio.com/mod/platforms))
+
+    > Use water-placeable platforms for looks and pragmatism. Unlike landfill, platforms can be easily removed at a later stage.
+
 
 ### Power Generation
 

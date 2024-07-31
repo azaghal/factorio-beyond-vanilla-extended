@@ -35,8 +35,8 @@ if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] 
 end
 
 
--- Visual overrides
--- ================
+-- Prototype overrides
+-- ===================
 
 -- Align Asteroid Mining ores/chunks with Realistic Ores colours/textures.
 data.raw["item"]["iron-ore-chunk"]["icons"][2].tint = {a = 0.8,r = 144,g = 24,b = 8}
@@ -45,3 +45,6 @@ data.raw["item"]["copper-ore-chunk"]["icons"][2].tint = {a = 0.8,r = 0,g = 77,b 
 data.raw["item"]["asteroid-copper-ore"]["icons"][2].tint = {a = 0.8,r = 0,g = 77,b = 59}
 data.raw["item"]["uranium-ore-chunk"]["icons"][2].tint = {a = 0.8,r = 70,g = 98,b = 0}
 data.raw["item"]["asteroid-uranium-ore"]["icons"][2].tint = {a = 0.8,r = 70,g = 98,b = 0}
+
+-- Align stack-size for platforms with landfill.
+data.raw["item"]["platform"].stack_size = 100
