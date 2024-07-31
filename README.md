@@ -71,6 +71,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Crash-land on planet, then set the nearby flora and fauna on fire using primitive. Don't play with matches - use the latest discovery from 5000 years ago - tinderbox!
 
+-   Snapper crab-like biters ([Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters))
+
+    > Additional type of biters with more resistances, spanning from early game to late game. Makes expanding and defending outposts slightly more challenging.
+
 
 ### Logistics
 
@@ -224,6 +228,7 @@ In addition to items listed here, please also have a look at known issues for [B
 -   The [AAI Containers](https://mods.factorio.com/mod/aai-containers) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
 -   Moving the shipwreck around (picking it up and placing it down again) desyncs the shipwreck colour. This is a known incompatibility/limitation of the [Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship) and [Relocatable Shipwreck](https://mods.factorio.com/mod/relocatable-shipwreck) mods.
 -   The [Alien Biomes](https://mods.factorio.com/mod/alien-biomes) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
+-   The [Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters) mos is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
 
 
 Contributions

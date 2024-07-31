@@ -23,6 +23,12 @@ local mod_setting_overrides = {
             { name = "alien-biomes-include-volcanic-purple", type = "string-setting", default = "Disabled" }
         },
     },
+    ['ArmouredBiters'] = {
+        startup = {
+            { name = "ab-enable-nest", type = "bool-setting", default = true },
+            { name = "ab-enable-moisture-check", type = "bool-setting", default = true }
+        }
+    },
     ['Asteroid_Mining'] = {
         startup = {
             -- Allow use of productivity modules for asteroid ore processing to make it a bit more attractive in the
