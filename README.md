@@ -43,7 +43,7 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
 -   Oil generates only in water ([Cargo Ships](https://mods.factorio.com/mod/cargo-ships))
 
-    > Oil is no longer generated on land, and can only by extracted via oil rigs. It has to be transported either using oil tankers, or by excess use of landfill to get the trains to the oil rig.
+    > Oil is no longer generated on land, and can only by extracted via oil rigs. It has to be transported either using oil tankers, or by excess use of landfill to get the trains to the oil rig. **NOTE:** This makes finding oil way harder than in plain vanilla play-throughs! You may want to increase the frequency of oil generation in map settings!
 
 
 ### Circuit network
