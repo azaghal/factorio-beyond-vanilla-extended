@@ -87,6 +87,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Launch nuclear bombs at biter nests using dedicated nuclear artillery batteries. For those too tired to carry around all those shoulder-launched nukes...
 
+-   More weapon types for spidetrons ([Spidertron Weapon Switcher](https://mods.factorio.com/mod/SpidertronWeaponSwitcher))
+
+    > Ever wished that you could use flamethrower from the comforts of your personal spidetron? How about shotgun shells? Or just plain old magazines? Worry no more - now you can easily equip your spidetrons with multiples types of ammo, and switch between them using a control binding.
+
 
 ### Logistics
 
