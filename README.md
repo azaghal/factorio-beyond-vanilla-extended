@@ -179,6 +179,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Enjoy between two forms of aerial transporation - helicopter and three variants of hovering aircraft. **NOTE:** Some tweak have been applied to make the technology progression a bit smoother and to not out-compete other forms of transportation. Helicopters can be recolored by copy/pating colour scheme from cars and trains.
 
+-   Miniature trains ([Mini Trains](https://mods.factorio.com/mod/Mini_Trains))
+
+    > Smaller (shorter) trains and wagon counterparts. Useful for delivery of low-volume items and for more compact builds.
+
 
 ### Visuals
 
