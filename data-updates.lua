@@ -79,3 +79,11 @@ data.raw["car"]["carmk2"].turret_animation = table.deepcopy(data.raw.car["car"].
 -- [Faster Cars] Re-enable damage from trees, after all cars are not tanks.
 data.raw["car"]["carmk2"].immune_to_tree_impacts = false
 data.raw["car"]["carmk3"].immune_to_tree_impacts = false
+
+-- [RealisticFlashlight/Clockwork] Set smaller halo size to go along with pitch-dark settings of Clockwork. Tweak some
+-- of the modded entities as well.
+local character = data.raw.player and data.raw.player.player or data.raw.character and data.raw.character.character
+character.light[1].size = 10
+data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].size = 15
+data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].minimum_darkness = 0.1
+data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].intensity = 0.2

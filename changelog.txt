@@ -42,6 +42,7 @@ Date: 9999-99-99
       - Torches (via "Kontraptions")
       - Canal building/water placement (via "Canal Excavator")
       - Mineable platforms for water placement (via "Platforms")
+      - No night vision in map mode (via "Clockwork")
     - Transportation
       - Fast and pretty road tiles (via "Asphalt Roads")
       - Water-based transportation and resource extraction (via "Cargo Ships")
@@ -56,4 +57,5 @@ Date: 9999-99-99
       - Realistic ore textures/colours (via "Realistic Ores")
       - Remove ground decorations from concrete (via "Cleaned Concrete")
       - Varied biomes and improved map generation (via "Alien Biomes")
+      - Pitch-dark nights (via "Clockwork")
   Bugfixes:

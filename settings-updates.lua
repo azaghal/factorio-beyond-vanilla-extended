@@ -49,6 +49,12 @@ local mod_setting_overrides = {
             { name = "oil_richness", type = "string-setting", default = "good" }
         }
     },
+    ['Clockwork'] = {
+        map = {
+            -- Nights are pitch-black, preventing the player from seeing anything at all.
+            { name = "Clockwork-darknight-percent", type = "int-setting", default = 100 }
+        }
+    },
     ['lex-aircraft'] = {
         startup = {
             -- Rebalance gunship speed so it would not out-compete all other forms of transportation.
@@ -69,6 +75,13 @@ local mod_setting_overrides = {
             { name = "platform-theme", type = "string-setting", default = "Brick" },
             -- Keep the landfill in the game, thus making the platforms simply a more expensive alternative.
             { name = "replace-landfill", type = "bool-setting", default = false }
+        }
+    },
+    ['RealisticFlashlight'] = {
+        startup = {
+            -- Show small halo around the player and vehicles to avoid stumbling in the dark.
+            { name = "rf-enable-light-halo", type = "bool-setting", default = true },
+            { name = "rf-enable-vehicle-light-halo", type = "bool-setting", default = true }
         }
     },
     ['SpidertronPatrols'] = {

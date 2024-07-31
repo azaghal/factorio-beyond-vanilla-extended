@@ -210,6 +210,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Enjoy increase in landscape variety of the Nauvis planet, including some smaller mechanics changes in terms of walking/driving speed, or rock generation. **NOTE:** If you are running Factorio on a beefy enough machine (primarily GPU-wise), you may be interested to manully install the [Alien Biomes High-Res Terrain](https://mods.factorio.com/mod/alien-biomes-hr-terrain) in order to get nicer looking graphics.
 
+-   Longer day/night cycle and pitch-black nights ([Clockwork](https://mods.factorio.com/mod/Clockwork))
+
+    > The day/night cycle is four times longer, and the nights are pitch-black (accumulator capacities are adjusted accordingly). To top it off, nightvision no longer works when in map mode. Don't forget to put some light on the situation!
+
 
 Known issues
 ------------
