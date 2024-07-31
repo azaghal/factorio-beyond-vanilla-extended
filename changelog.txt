@@ -18,6 +18,8 @@ Date: 9999-99-99
       - Remote explosives (via "Kontraptions")
       - Early game fire (via "Kontraptions")
       - Snapper crab-like biters (via "Armoured Biters")
+      - Improved automatic rifle (via "Assault Rifle")
+      - Uranium-based shotgun shells (via "Uranium Shotgun Shell")
     - Power generation
       - Fluids-based boilers and early steam turbines (via "Superheating")
       - Plutonium power and weapon production chains (via "PlutoniumEnergy")

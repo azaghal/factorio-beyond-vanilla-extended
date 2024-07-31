@@ -75,6 +75,14 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Additional type of biters with more resistances, spanning from early game to late game. Makes expanding and defending outposts slightly more challenging.
 
+-   Improved automatic rifle ([Assault Rifle](https://mods.factorio.com/mod/assault-rifle))
+
+    > Pump out bullets even faster, and retire your trusty old SMG - it has worked hard enough already. New weapon also boosts slightly improved range and damage over its older counterpart.
+
+-   Uranium-based shotgun shells ([Uranium Shotgun Shell](https://mods.factorio.com/mod/Uranium%20Shotgun%20Shell))
+
+    > Fight off the local population using new, improved riot-supression ammunition - the uranium shotgun shell. Fill in the most obvious gap in entire Factorio research tree.
+
 
 ### Logistics
 
