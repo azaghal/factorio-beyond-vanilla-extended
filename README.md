@@ -159,6 +159,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Use cargo ships and tankers in addition to railway to transport resources between outposts and factories. Sail the world, they said...
 
+-   Water-placeable rails ([Beautiful Bridge Railway for Cargoships](https://mods.factorio.com/mod/beautiful_bridge_railway_Cargoships)
+
+    > Bridge across the water using dedicated bridge railways instead of spamming the landfill.
+
 
 ### Visuals
 
