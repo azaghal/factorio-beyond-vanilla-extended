@@ -121,6 +121,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Sometimes an icon is not enough. Sometimes, you need to send a message to all those passing by... Craft and place signposts for reminders, insults, and fun!
 
+-   Canal Excavator ([Canal Excavator](https://mods.factorio.com/mod/canal-excavator))
+
+    > Create canals for supplying large nuclear power builds in a desert, or for allowing the passage of cargo ships. Non-cheaty way to place water anywhere you want!.
+
 
 ### Power Generation
 

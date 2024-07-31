@@ -40,6 +40,7 @@ Date: 9999-99-99
       - Relocate shipwreck/set spawn point (via "Relocatable Shipwreck")
       - Signposts (via "Kontraptions")
       - Torches (via "Kontraptions")
+      - Canal building/water placement (via "Canal Excavator")
     - Transportation
       - Fast and pretty road tiles (via "Asphalt Roads")
       - Water-based transportation and resource extraction (via "Cargo Ships")
