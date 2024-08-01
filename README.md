@@ -241,7 +241,7 @@ In addition to items listed here, please also have a look at known issues for [B
 -   The [AAI Containers](https://mods.factorio.com/mod/aai-containers) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
 -   Moving the shipwreck around (picking it up and placing it down again) desyncs the shipwreck colour. This is a known incompatibility/limitation of the [Tinted Spaceship](https://mods.factorio.com/mod/tinted-spaceship) and [Relocatable Shipwreck](https://mods.factorio.com/mod/relocatable-shipwreck) mods.
 -   The [Alien Biomes](https://mods.factorio.com/mod/alien-biomes) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
--   The [Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters) mos is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
+-   The [Armoured Biters](https://mods.factorio.com/mod/ArmouredBiters) mod is released under [non-Free license](https://www.gnu.org/philosophy/categories.en.html).
 
 
 Contributions
