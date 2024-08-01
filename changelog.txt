@@ -12,10 +12,9 @@ Date: 9999-99-99
       - Factory-oriented victory screen (via "Better Victory Screen")
     - Circuit network
       - Measure total accumulator charge and capacity (via "Capacity Combinator")
-      - Daylight, motion, pollution, and pressure plate sensors (via "Kontraptions")
+      - Daylight and pollution sensors (via "Kontraptions")
       - Wireless signal transmissions (via "Kontraptions")
     - Combat
-      - Remote explosives (via "Kontraptions")
       - Early game fire (via "Kontraptions")
       - Snapper crab-like biters (via "Armoured Biters")
       - Improved automatic rifle (via "Assault Rifle")
@@ -43,11 +42,8 @@ Date: 9999-99-99
       - Additional larger variants of chests (via "AAI Containers")
       - Configurable inserter drop-off/pick-up positions (via "Side Inserters")
       - Fluid delivery using logistics network (via "Logistic Tank")
-      - Early game robot logistics (via "Kontraptions")
     - Miscellaneous
       - Relocate shipwreck/set spawn point (via "Relocatable Shipwreck")
-      - Signposts (via "Kontraptions")
-      - Torches (via "Kontraptions")
       - Canal building/water placement (via "Canal Excavator")
       - Mineable platforms for water placement (via "Platforms")
       - No night vision in map mode (via "Clockwork")

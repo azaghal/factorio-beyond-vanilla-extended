@@ -87,3 +87,50 @@ character.light[1].size = 10
 data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].size = 15
 data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].minimum_darkness = 0.1
 data.raw["spider-vehicle"]["sp-spiderling"].graphics_set.light[1].intensity = 0.2
+
+-- [Kontraptions] Disable long range delivery drone by hiding related technology and items.
+data.raw["technology"]["long-range-delivery-drone"].hidden = true
+data.raw["technology"]["long-range-delivery-drone"].enabled = false
+table.insert(data.raw["item"]["long-range-delivery-drone-depot"].flags, "hidden")
+table.insert(data.raw["item"]["long-range-delivery-drone-request-depot"].flags, "hidden")
+table.insert(data.raw["item"]["long-range-delivery-drone"].flags, "hidden")
+data.raw["recipe"]["long-range-delivery-drone-depot"].hidden = true
+data.raw["recipe"]["long-range-delivery-drone-depot"].enabled = false
+data.raw["recipe"]["long-range-delivery-drone-request-depot"].hidden = true
+data.raw["recipe"]["long-range-delivery-drone-request-depot"].enabled = false
+data.raw["recipe"]["long-range-delivery-drone"].hidden = true
+data.raw["recipe"]["long-range-delivery-drone"].enabled = false
+
+-- [Kontraptions] Disable the motion sensors - can't get them to work.
+data.raw["technology"]["motion-sensor"].hidden = true
+data.raw["technology"]["motion-sensor"].enabled = false
+data.raw["item"]["enemy-motion-sensor"].flags = {"hidden"}
+data.raw["item"]["friendly-motion-sensor"].flags = {"hidden"}
+data.raw["recipe"]["enemy-motion-sensor"].hidden = true
+data.raw["recipe"]["enemy-motion-sensor"].enabled = false
+data.raw["recipe"]["friendly-motion-sensor"].hidden = true
+data.raw["recipe"]["friendly-motion-sensor"].enabled = false
+
+-- [Kontraptions] Disable pressure plate - can't get it to work.
+data.raw["technology"]["pressure-plate"].hidden = true
+data.raw["technology"]["pressure-plate"].enabled = false
+data.raw["item"]["pressure-plate"].flags = {"hidden"}
+data.raw["recipe"]["pressure-plate"].hidden = true
+data.raw["recipe"]["pressure-plate"].enabled = false
+
+-- [Kontraptions] Disable remote explosives - does not feel like it has any real purpose to it.
+data.raw["technology"]["remote-explosive"].hidden = true
+data.raw["technology"]["remote-explosive"].enabled = false
+data.raw["item"]["remote-explosive"].flags = {"hidden"}
+data.raw["recipe"]["remote-explosive"].hidden = true
+data.raw["recipe"]["remote-explosive"].enabled = false
+
+-- [Kontraptions] Disable the sign post - industrial display plates should be sufficient.
+data.raw["item"]["sign-post"].flags = {"hidden"}
+data.raw["recipe"]["sign-post"].hidden = true
+data.raw["recipe"]["sign-post"].enabled = false
+
+-- [Kontraptions] Disable torches - there's already burner-based copper lamp in the game.
+data.raw["item"]["torch"].flags = {"hidden"}
+data.raw["recipe"]["torch"].hidden = true
+data.raw["recipe"]["torch"].enabled = false
