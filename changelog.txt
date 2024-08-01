@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
-  Changes:
+Version: 0.1.0
+Date: 2024-08-01
   Features:
     - Based off of "Beyond Vanila -QoL" modpack.
       - Re-enables technologies and features from "Pavement Drive Assist Continued".
@@ -62,4 +61,3 @@ Date: 9999-99-99
       - Remove ground decorations from concrete (via "Cleaned Concrete")
       - Varied biomes and improved map generation (via "Alien Biomes")
       - Pitch-dark nights (via "Clockwork")
-  Bugfixes:
