@@ -5,6 +5,8 @@ Beyond Vanilla - Extended
 About
 -----
 
+> **WARNING:** This modpack has not gone through full end-to-end testing yet, and as such it may contain either breaking changes, or breaking changes might get introduced prior to hitting the 1.0.0 release.
+
 *Beyond Vanilla - Extended* is a modpack designed to extend and expand upon vanilla gameplay, adding more structures, mechanics, and ways to automate the factory. The modpack builds on top of [Beyond Vanilla - QoL](https://mods.factorio.com/mod/beyond-vanilla-qol) and [Beyond Vanilla - QoL+](https://mods.factorio.com/mod/beyond-vanilla-qol-plus) modpacks.
 
 It is designed for players that have already went through a couple of vanilla playthroughs, and have started to find the vanilla gameplay repetitive. Modpack is focused on maintaining the balance while filling-in the gaps in vanilla gameplay.
